@@ -20,13 +20,8 @@ Los puntos más relavantes del funcionamiento del código son:
 
 * Se extraen los datos para formar una tabla con el siguiente formato:
 
-  | Fuente   |         |
-  | Lenguaje | Puntaje |
-  | Puesto1  |       5 |
-  | Puesto2  |       4 |
-  | Puesto3  |       3 |
-  | Puesto4  |       2 |
-  | Puesto5  |       1 |
+| Fuente | |
+| Lenguaje | Puntaje |
 
 * Los lenguajes estarán ordenados de arriba hacia abajo comenzando por el primer puesto. Cada puesto posee un puntaje, siendo 5 puntos el puntaje más alto y 1 punto el más bajo.
 * Estos puntajes se irán actualizando a medida que se analiza una nueva fuente, por ejemplo, si Python tiene 5 puntos en el primer ranking y en el segundo obtiene 4, figurará en la tabla del segundo ranking con 9 puntos acumulativos.
