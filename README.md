@@ -1,4 +1,4 @@
-# Proyecto Web Scraping para Lenguajes de Programacion
+# Proyecto Web Scraping para Taller de Lenguajes
 
 ## Objetivo
 
