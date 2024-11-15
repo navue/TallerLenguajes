@@ -12,7 +12,7 @@ Todos estos ranking tienen en común que se encuentran evaluados en el año 2024
 
 ## Herramientas
 
-Para llevar a cabo esta tarea se utilizará como stack de tecnología `playwright` de nodejs. Los datos obtenidos se analizarán y guardarán en un archivo Excel usando la biblioteca `exceljs`, que nos permite también modificar los estilos de las celdas para brindarle al análisis un enfóque gráfico.
+Para llevar a cabo esta tarea se utilizará como stack de tecnología `playwright` de nodejs. Los datos obtenidos se analizarán y guardarán en un archivo Excel usando el paquete `exceljs`, que nos permite también modificar los estilos de las celdas para brindarle al análisis un enfóque gráfico.
 
 ## Funcionamiento
 
