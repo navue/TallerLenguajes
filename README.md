@@ -29,6 +29,7 @@ Los puntos más relavantes del funcionamiento del código son:
 | Puesto4  |        2|
 | Puesto5  |        1|
 
+* La primer columna indica la información de los datos extraídos, es decir, muestra la fuente de donde se obtienen los lenguajes y el listado de los mismos. La segunda columna contiene el primer resultado de la manipulación de datos, la cual es la asignación y acumulación de los puntajes.
 * Los lenguajes estarán ordenados de arriba hacia abajo comenzando por el primer puesto. Cada puesto posee un puntaje, siendo 5 puntos el puntaje más alto y 1 punto el más bajo.
 * Estos puntajes se irán actualizando a medida que se analiza una nueva fuente, por ejemplo, si Python tiene 5 puntos en el primer ranking y en el segundo obtiene 4, figurará en la tabla del segundo ranking con 9 puntos acumulativos.
 * Una vez se obtengan los puntajes finales de TODOS los lenguajes analizados, se generará una nueva tabla, agregando tambien el armado de barras con distintos tonos de rojo. Estas barras estan formadas por X cantidad de celdas (donde X corresponde al puntaje final) y la intensidad de los tonos será mayor cuanto más puntaje tenga el lenguaje en cuestión.
